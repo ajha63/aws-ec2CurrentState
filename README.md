@@ -12,7 +12,7 @@ To implement this lambda function do you need:
       4.3 Key:: Message, Value: Message body to sns message
       4.4 Key:: MessageSubject, Value: Subject to sns message
 
->Author: Alvaro Hernandez <alvaro@escala24x7.com>
+>Author: Alvaro Hernandez <hernandez.alvaro@gmail.com>
 
 [![@ajha63](https://upload.wikimedia.org/wikipedia/commons/6/61/DevelopByAjha63.png)](https://github.com/ajha63/aws-ec2CurrentState)
 
